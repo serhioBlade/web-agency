@@ -127,6 +127,7 @@ h2{
   background: #454545;
   color: #fff;
 }
+
 /* Выезжающий блок с текстом для панели снизу вверх */
 .hover-effect-cover li > div.effect-to-top {
   width: 100%;
